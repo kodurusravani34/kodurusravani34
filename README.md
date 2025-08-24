@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sravani Koduru</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">Java Full Stack Developer | SQL Enthusiast | Spring Framework Practitioner</h3>
 
 ---
 
